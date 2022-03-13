@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net5.0-windows;net6.0-windows;net35;net48</TargetFrameworks>
+    <RootNamespace>_3DTools</RootNamespace>
+    <UseWPF>true</UseWPF>
+    <Title>3DTools</Title>
+    <Description></Description>
+    <Company>Microsoft</Company>
+    <Product>3D Tools for the Windows Presentation Foundation</Product>
+    <Authors>Microsoft</Authors>
+    <Copyright>Copyright @ Microsoft 2006</Copyright>
+    <Version>1.0.0</Version>
+    <PackageProjectUrl>https://github.com/jerryjiang/3DTools</PackageProjectUrl>
+    <PackageTags>WPF;3D</PackageTags>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/jerryjiang/3DTools.git</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>
